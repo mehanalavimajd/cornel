@@ -1,4 +1,26 @@
 {
+  "name": "cornel",
+  "description": "An Express Middleware For logging data",
+  "version": "1.0.0",
+  "main": "lib/cornel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehanalavimajd/cornel"
+  },
+  "keywords": [
+    "logging",
+    "express",
+    "middleware"
+  ],
+  "author": "Mehan Alavimajd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehanalavimajd/cornel/issues"
+  },
+  "homepage": "https://github.com/mehanalavimajd/cornel/",
   "dependencies": {
     "express": "^4.17.3"
   }
