@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/mehanalavimajd/cornel?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/mehanalavimajd/cornel?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/mehanalavimajd/cornel?style=for-the-badge)
-[![MIT License][license-shield]][license-url]
+![GitHub](https://img.shields.io/github/license/mehanalavimajd/cornel?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mehanalavimajd/cornel?style=for-the-badge)
 
 
