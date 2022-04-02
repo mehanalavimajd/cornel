@@ -111,20 +111,28 @@ Every time a request is made cornel will log the string you wrote there.
 this list is about tokens you can use.
 `:url:`:
   same as `req.url`
+
 `:method:`:
   same as `req.method`
+
 `:date:`:
   same as `Date().toString()`
+
 `:date-iso:`:
   same as `Date().toISOString()`
+
  `:date-utc:`
   same as `Date().toUTCString()`
+
 `:http-version:` :
   same as `req.httpVersion`
+
  `:refferer:`:
   same as `req.headers.referer`
+
  `:remote-addr:`:
   same as `req.ip` if it's empty it will use `req.connection.remoteAddress`
+
  `:status:`:
   same as `res.statusCode`
 <!-- CONTRIBUTING -->
